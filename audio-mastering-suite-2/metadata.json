@@ -1,6 +1,0 @@
-{
-  "name": "Audio Mastering Suite",
-  "description": "Professional client-side and full-stack audio mixing and mastering studio with high-fidelity DSP controls, live A/B testing, and real-time waveforms.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
